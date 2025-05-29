@@ -1,8 +1,8 @@
-<h1 align="left">Jorge Tomé Júnior - <small>Desenvolvedor Fullstack react+node js</small></h1>
+<h1 align="left">Jorge Tomé Júnior - <small>Desenvolvedor Fullstack (JS / JAVA)</small></h1>
 
 ###
 
-<p align="left">💡 Tenho entusiasmo por acompanhar as últimas tendências e mergulhar no aprendizado de novas tecnologias.<br>📚 Atualmente estou imerso no universo javascript com react e node js<br>❤ Codar<br>
+<p align="left">💡 Desenvolvedor com experiência em React e Node.js, atualmente aprofundando meus conhecimentos em Java📚.<br> 
 
 ###
 <h2 align="left">Minhas estatísticas de código</h2>
